@@ -1,10 +1,14 @@
 数学原理
 ==================
+.. toctree::
+   :maxdepth: 3
+   :caption: Contents:
 
 参考
 ==================
 
 * 本科数学课程
+
   * Abstract algebra
   * Calculus I and II
   * General Physics I and II
@@ -20,6 +24,7 @@
   * Math reasoning
 
 * 硕士数学课程
+
   * MATH 500a/380a Modern Algebra I and II 代数
   * MATH 520a/320a Measure Theory and Integration 测量理论和集成
   * MATH 544a Introduction to Algebraic Topology I 代数拓扑
@@ -49,4 +54,4 @@
   * MATH 868b, Spectral Geometry 谱几何
 
 
-* ref: http://dataconomy.com/2017/06/math-physics-artificial-intelligence-careers/
+ref: http://dataconomy.com/2017/06/math-physics-artificial-intelligence-careers/
