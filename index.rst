@@ -10,6 +10,20 @@ Way to AI
    :maxdepth: 2
    :caption: Contents:
 
+目录：
+=================
+* 数学基础
+  * 高斯
+  * DCT,FFT
+  * 卷积
+
+* 图像基础
+
+  * 边缘检测算法
+  * 色彩
+  * 通道
+  * 滤镜
+  
 
 
 Indices and tables
