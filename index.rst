@@ -12,21 +12,7 @@ Way to AI
 
 目录：
 =================
-* 数学基础
 
-  * 高斯
-  * DCT,FFT
-  * 卷积
-
-* 图像基础
-
-  * 边缘检测算法
-  * 色彩
-  * 通道
-  * 滤镜
-  * 形态学
-  * 尺度变换
- 
 * AI 发展历史
   
   * 人物、算法、硬件支撑、应用、会议、竞赛
@@ -45,3 +31,6 @@ Indices and tables
 * :ref:`genindex`
 * :ref:`modindex`
 * :ref:`search`
+* :ref:`math`
+* :ref:`imgprocessing`
+
