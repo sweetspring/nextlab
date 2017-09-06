@@ -8,7 +8,7 @@ Way to AI
 
 .. toctree::
    :maxdepth: 2
-   :caption: content:
+   :caption: Contents:
 
 
 
