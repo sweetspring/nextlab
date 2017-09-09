@@ -9,6 +9,9 @@ Way to AI
 .. toctree::
    :maxdepth: 2
    :caption: Contents:
+   
+   case1
+   
 
 目录：
 =================
