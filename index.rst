@@ -28,6 +28,13 @@ Way to AI
 
 * AI 入门 （20 课）
 
+.. toctree::
+   :maxdepth: 2
+   :caption: Contents:
+
+   case1
+
+
 Indices and tables
 ==================
 
