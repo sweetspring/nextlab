@@ -6,11 +6,6 @@
 Way to AI
 ==================================
 
-.. toctree::
-   :maxdepth: 2
-   :caption: Contents:
-   
-   case1
    
 
 目录：
@@ -24,15 +19,16 @@ Way to AI
 
 * AI 框架
 
-* AI 案例
-
-* AI 入门 （20 课）
+* 
 
 .. toctree::
    :maxdepth: 2
-   :caption: Contents:
-
+   :caption: AI 案例:
+   
    case1
+   
+* AI 入门 （20 课）
+ 
 
 
 Indices and tables
