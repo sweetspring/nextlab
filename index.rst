@@ -5,28 +5,26 @@
 
 Way to AI
 ==================================
-
-   
-
-目录：
-=================
-
-* AI 发展历史
-  
-  * 人物、算法、硬件支撑、应用、会议、竞赛
- 
-* AI 算法
-
-* AI 框架
-
-* 
-
 .. toctree::
    :maxdepth: 2
    :caption: AI 案例:
    
    case1
+   case2
    
+   
+
+Todo 目录：
+=================
+
+* AI 发展历史
+  
+* 人物、算法、硬件支撑、应用、会议、竞赛
+ 
+* AI 算法
+
+* AI 框架
+
 * AI 入门 （20 课）
  
 
@@ -37,6 +35,5 @@ Indices and tables
 * :ref:`genindex`
 * :ref:`modindex`
 * :ref:`search`
-* :ref:`math`
-* :ref:`imgprocessing`
+
 
